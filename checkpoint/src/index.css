@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://i.pinimg.com/564x/03/27/9c/03279ca31e3a59f4bd8ecf583dc368df.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+
+
